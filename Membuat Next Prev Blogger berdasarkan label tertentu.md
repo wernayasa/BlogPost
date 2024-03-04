@@ -60,10 +60,5 @@ Jadi tombol next prev akan tampil di dalam postingan berlabel "Chapter". Dan lab
 
 Sampai sini sudah selesai silahkan di coba. Untuk versi JS nya akan di update kemudian hari.
 
-[Demo](https://web.archive.org/web/20220908005416/https://demo-source-code.blogspot.com/2022/09/next-prev.html "Membuat Next Prev Blogger berdasarkan label tertentu")
+[Demo](https://demo-source-code.blogspot.com/2022/09/next-prev.html "Membuat Next Prev Blogger berdasarkan label tertentu")
 
-*   [_WhatsApp_](https://web.archive.org/web/20220908005416/https://wa.me/?text=Membuat Next Prev Blogger berdasarkan label tertentu - http://www.dayat.id/2022/09/next-prev-blogger.html "WhatsApp")
-*   [_Telegram_](https://web.archive.org/web/20220908005416/https://t.me/share/url?url=http://www.dayat.id/2022/09/next-prev-blogger.html&text=Membuat Next Prev Blogger berdasarkan label tertentu "Telegram")
-*   [_Facebook_](https://web.archive.org/web/20220908005416/https://www.facebook.com/sharer.php?u=http://www.dayat.id/2022/09/next-prev-blogger.html "Facebook")
-*   [_Twitter_](https://web.archive.org/web/20220908005416/https://twitter.com/share?url=http://www.dayat.id/2022/09/next-prev-blogger.html&text=Membuat Next Prev Blogger berdasarkan label tertentu "Twitter")
-*   [_Linkedin_](https://web.archive.org/web/20220908005416/https://www.linkedin.com/sharing/share-offsite/?url=http://www.dayat.id/2022/09/next-prev-blogger.html&title=Membuat Next Prev Blogger berdasarkan label tertentu "Linkedin")
