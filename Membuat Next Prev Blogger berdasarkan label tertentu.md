@@ -1,7 +1,3 @@
-*    [Beranda](https://web.archive.org/web/20220908005416/https://www.dayat.id/ "Beranda")
-*    [Blogger](https://web.archive.org/web/20220908005416/https://www.dayat.id/search/label/Blogger "Blogger")
-*    [Javascript](https://web.archive.org/web/20220908005416/https://www.dayat.id/search/label/Javascript "Javascript")
-
 Membuat Next Prev Blogger berdasarkan label tertentu
 ====================================================
 
